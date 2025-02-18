@@ -38,3 +38,18 @@ hexo server
 通常是 http://localhost:4000/  
 直接點擊可以開啟瀏覽器瀏覽網頁  
 
+# 清除靜態檔案與快取
+```
+hexo clean
+```
+
+# generate 產生靜態檔案
+```
+hexo generate
+```
+
+# 新增文章
+```
+hexo new <title>
+```
+
