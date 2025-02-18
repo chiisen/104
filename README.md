@@ -53,3 +53,7 @@ hexo generate
 hexo new <title>
 ```
 
+# 發佈到遠端
+```
+hexo deploy
+```
