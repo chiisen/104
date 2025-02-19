@@ -57,3 +57,20 @@ hexo new <title>
 ```
 hexo deploy
 ```
+
+# 發佈到 cloudflare
+去註冊一個 cloudflare 帳號  
+選取左邊選單 "計算(Workers)" 中  
+建立 "Worker 和 Pages"  
+![Worker 和 Pages](./images/cloudflare_workers_and_pages.png)
+
+## 組建組態
+![組建組態](./images/cloudflare_build.png)
+### 組件命令
+```
+npm run build
+```
+### 組建輸出目錄
+```
+public
+```
