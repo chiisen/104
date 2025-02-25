@@ -11,7 +11,7 @@ Hexo 其實就是一個基於 Node.js 開發的網誌框架
 ```
 npm install hexo-cli -g
 ```
-測試一下是否安裝成功
+查詢現在安裝的 hexo 版本號，測試一下是否安裝成功
 ```
 hexo version
 ```
