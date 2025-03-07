@@ -1,5 +1,5 @@
 # 使用 Hexo 架設 104 個人履歷
-使用 Hexo 架設簡單的 104 個人履歷
+使用 Hexo 架設簡單的 104 個人履歷並發佈到 `cloudflare`
 
 ## Hexo
 Hexo 其實就是一個基於 Node.js 開發的網誌框架
