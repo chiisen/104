@@ -37,6 +37,14 @@ hexo server
 ```
 通常是 http://localhost:4000/  
 直接點擊可以開啟瀏覽器瀏覽網頁  
+如果報錯
+```
+FATAL Permission denied. You can't use port 4000.
+```
+可以已用指令更換 port
+```
+hexo server -p 5000
+```
 
 # 清除靜態檔案與快取
 ```
