@@ -13,3 +13,5 @@ public/
 # 不推送開頭為 .deploy 的目錄
 .deploy*/
 _multiconfig.yml
+/desktop.ini
+/*.ico
