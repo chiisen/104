@@ -5,6 +5,7 @@ tags:
 ---
 
 ## 唯舞獨尊(臉書版)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
 具有多樣的音樂玩法模式，加上社交平台特有的好友互動、趣味分享等元素，讓玩家可以與好友一起聽音樂、玩遊戲。透過獨特的社交聊天功能，還能認識更多玩家一起同樂。
 
 ![唯舞獨尊(臉書版)](../images/we_fb.jpeg)

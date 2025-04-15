@@ -5,6 +5,7 @@ tags:
 ---
 
 ## 唯舞獨尊Online
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 這是一款結合時尚的音樂遊戲，玩家只需使用簡單的 4 個方向鍵，隨著音樂節拍操縱遊戲中的人物，與其他玩家進行對戰尬舞，非常考驗手指的反應和節奏感。
 
 ![唯舞獨尊Online](../images/we_online.jpeg)
