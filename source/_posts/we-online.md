@@ -9,6 +9,8 @@ tags:
 
 ![唯舞獨尊Online](../images/we_online.jpeg)
 
+{%youtube Ddrc-0M5uUs %}
+
 ### 2007年5月3日公開測試
 
 [🔗 巴哈姆特-唯舞獨尊 Online 介紹網頁](https://acg.gamer.com.tw/acgDetail.php?s=10967)

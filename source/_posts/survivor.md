@@ -9,6 +9,16 @@ tags:
 
 ![倖存者聯盟](../images/survivor.jpg)
 
+---
+
+{%youtube 3rRL80B6Y5s %}
+
+---
+
+{%youtube CysCdm4eaBQ %}
+
+---
+
 ### 2016年10月06日公測
 
 [🔗 巴哈姆特-倖存者聯盟 介紹網頁](https://acg.gamer.com.tw/acgDetail.php?s=85429)
