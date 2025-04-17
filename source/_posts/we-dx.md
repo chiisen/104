@@ -10,6 +10,8 @@ tags:
 
 ![唯舞獨尊 DX](../images/we_dx.jpeg)
 
+<!-- more -->
+
 ### 2014年10月09日公測
 
 [🔗 巴哈姆特-唯舞獨尊 DX 介紹網頁](https://acg.gamer.com.tw/acgDetail.php?s=71734)
