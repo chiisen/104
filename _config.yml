@@ -7,10 +7,10 @@
 
 # Site
 # 網站資訊
-title: "Sam 的經歷(cloudflare + Hexo 1.0.3 版)"
-subtitle: ""
-description: ""
-keywords: ""
+title: "👨‍💻 Sam 的經歷(cloudflare + Hexo 1.0.3 版)"
+subtitle: "這是我的部落格"
+description: "我是工程師 Sam，這是我的部落格"
+keywords: "hexo, cloudflare"
 author: "Sam"
 language: "en"
 timezone: "Asia/Taipei"
