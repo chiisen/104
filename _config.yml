@@ -7,7 +7,7 @@
 
 # Site
 # 網站資訊
-title: "Sam 的經歷(cloudflare + Hexo 1.0.2 版)"
+title: "Sam 的經歷(cloudflare + Hexo 1.0.3 版)"
 subtitle: ""
 description: ""
 keywords: ""
@@ -79,7 +79,7 @@ prismjs:
 # 文章排序方式 (預設為日期遞減)
 index_generator:
   path: ""
-  per_page: 4
+  per_page: 5
   order_by: -date
 
 # Category & Tag
