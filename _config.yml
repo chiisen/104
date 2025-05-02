@@ -7,12 +7,12 @@
 
 # Site
 # 網站資訊
-title: "Sam 的經歷(Hexo 1.0.1 版)"
+title: "Sam 的經歷(Hexo 1.0.2 版)"
 subtitle: ""
 description: ""
 keywords: ""
 author: "Sam"
-language: "tw"
+language: "en"
 timezone: "Asia/Taipei"
 
 # URL
@@ -127,7 +127,7 @@ ignore:
 ## 外掛: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 ## 主題: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 # 部署設定
