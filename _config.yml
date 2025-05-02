@@ -79,7 +79,7 @@ prismjs:
 # 文章排序方式 (預設為日期遞減)
 index_generator:
   path: ""
-  per_page: 5
+  per_page: 4
   order_by: -date
 
 # Category & Tag
