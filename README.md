@@ -80,7 +80,7 @@ hexo deploy
 ## 組建組態
 ![組建組態](./images/cloudflare_build.png)
 ### 組件命令
-```
+```npm install strip-ansi@6
 npm run build
 ```
 ### 組建輸出目錄
