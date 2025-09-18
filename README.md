@@ -5,7 +5,7 @@
 Hexo 其實就是一個基於 Node.js 開發的網誌框架
 
 ## 安裝需求
-你需要安裝 Node.js 與 Git
+你需要安裝 Node.js(v.20) 與 Git
 
 ## 安裝 Hexo
 ```
@@ -44,6 +44,11 @@ FATAL Permission denied. You can't use port 4000.
 可以已用指令更換 port
 ```
 hexo server -p 5000
+```
+
+# 升級專案內的 Hexo 版本
+```
+npm install hexo@latest --save
 ```
 
 # 清除靜態檔案與快取
