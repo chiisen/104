@@ -7,7 +7,9 @@
 
 # Site
 # 網站資訊
-title: "👨 的經歷(cloudflare + Hexo 1.0.6 版)"
+# title 裡的「站點流水號」是這份經歷站自己的改版序號，不是 Hexo 框架版號。
+# 框架版號看 package.json 的 dependencies.hexo（目前 ^8.1.2）。
+title: "👨 的經歷(Cloudflare + Hexo，站點流水號 1.0.6)"
 subtitle: "這是我的部落格"
 description: "我是工程師 Sam，這是我的部落格"
 keywords: "hexo, cloudflare"
