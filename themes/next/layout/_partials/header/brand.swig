@@ -18,7 +18,7 @@
 
     <a href="{{ config.root }}" class="brand" rel="start">
       <span class="logo-line-before"><i></i></span>
-      <h1 class="site-title">{{ title }}</h1>
+      <h1 class="site-title">{{ title }}{%- if config.site_serial %} <span class="site-serial-tag">站點 {{ config.site_serial }}</span>{%- endif %}</h1>
       <span class="logo-line-after"><i></i></span>
     </a>
     {%- if subtitle %}
